@@ -1,0 +1,14 @@
+       كبداية يجب ان تدخل سيرفر ssh و تصل الى المرحلة 4 لئن 4 هي الباسورد تدخل الباسورد مكان النجوم 
+    
+    
+    
+
+176.9.9.172
+user     : bandit0
+password : bandit0
+
+ssh bandit0@176.9.9.172 -p 2220
+
+    
+    
+    www.shoruq.sch.ae/userfiles/images/kid/*************************.jpg
